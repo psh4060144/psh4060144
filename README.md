@@ -31,6 +31,10 @@
 
 &nbsp;
 
+사진을 클릭하시면 소개 페이지로 넘어갑니다
+
+&nbsp;
+
 `Game`   
 [![ninesols.webp](./ninesols.webp "Nine Sols")](http://store.steampowered.com/app/1809540/_/?l=koreana)
 
