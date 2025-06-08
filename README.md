@@ -1,6 +1,6 @@
 # Hi!
 
-<img src="./profile.png" alt="profile" width="360" />
+<img src="./profile.png" alt="profile" width="500" />
 
 - Name: 박상훈 / Park Sanghun
 
