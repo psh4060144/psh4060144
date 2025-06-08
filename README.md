@@ -1,7 +1,5 @@
 # Hi!
 
----
-
 &nbsp;
 
 ![profile.png](./profile.png "profile")
@@ -23,7 +21,7 @@
 - Tools: Git, VSCode, Postman, SQLite
   &nbsp;
 
----
+&nbsp;
 
 ## Skills
 
@@ -53,8 +51,6 @@
 - Django 백엔드와 REST API 연동 경험 풍부
 
 &nbsp;
-
----
 
 ## Projects
 
@@ -94,8 +90,6 @@
 - 발표 자료 작성 및 최종 발표 진행
 
 &nbsp;
-
----
 
 ## Contact
 
