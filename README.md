@@ -50,8 +50,6 @@
 
 ## Projects
 
-&nbsp;
-
 ### Movie Recommendation Platform
 
 - 2025.05.21 ~ 2025.05.27
@@ -61,17 +59,11 @@
 #### Key Features
 
 - 사용자 회원가입 / 로그인 / 로그아웃 (Vue + Django)
-
 - 사용자 간 팔로우 기능 (User 모델 확장)
-
 - 배우 검색 → 출연 영화 추천
-
 - 영화 검색 → 관련 배우 및 리뷰 출력
-
 - 리뷰 작성, 댓글 작성, 좋아요 기능 구현
-
 - 대량의 영화 정보, 배우 데이터 json 등록
-
 - 사용자 프로필 이미지 업로드 처리
 
 #### Tech Stack
@@ -88,8 +80,6 @@
 &nbsp;
 
 ## Contact
-
-&nbsp;
 
 - E-mail: psh14@naver.com / psh406014@gmail.com
   &nbsp;
