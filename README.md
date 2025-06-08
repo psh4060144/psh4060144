@@ -1,25 +1,16 @@
 # Hi!
 
-&nbsp;
-
 ![profile.png](./profile.png "profile")
 
-&nbsp;
-
 - Name: 박상훈 / Park Sanghun
-  &nbsp;
 
 - Role: Frontend-focused Developer with Backend Experience
-  &nbsp;
 
 - Language: Python, Javascript
-  &nbsp;
 
 - Framework: Django, Vue.js
-  &nbsp;
 
 - Tools: Git, VSCode, Postman, SQLite
-  &nbsp;
 
 &nbsp;
 
