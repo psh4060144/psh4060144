@@ -1,6 +1,6 @@
 # Hi!
 
-![profile.png](./profile.png "profile")
+<img src="./profile.png" alt="profile" width="180" />
 
 - Name: 박상훈 / Park Sanghun
 
