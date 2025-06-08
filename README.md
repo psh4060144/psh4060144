@@ -27,8 +27,6 @@
 
 ## Skills
 
-&nbsp;
-
 ##### Python
 
 - 알고리즘 문제 해결 100+ (Baekjoon Gold ~ Platinum)
